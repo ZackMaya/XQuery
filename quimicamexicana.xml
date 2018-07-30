@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extracto>   
+	<producto nombre="Tomate" valor="4.4"></producto>   
+	<producto nombre="Limón" valor="22.5"></producto>     
+	<producto nombre="Vinagre" valor="3"></producto>    
+	<producto nombre="Cerveza" valor="4.4"></producto>   
+	<producto nombre="Saliva" valor="6.8"></producto>    
+	<producto nombre="Sangre" valor="7.3"></producto>      
+	<producto nombre="Agua de mar" valor="8.2"></producto>      
+	<producto nombre="Agua" valor="7"></producto>      
+	<producto nombre="Espárragos" valor="5.7"></producto>      
+	<producto nombre="Leche de vaca" valor="6.5"></producto>     
+	<producto nombre="Amoníaco" valor="11.1"></producto>     
+	<producto nombre="Leche de cabra" valor="12"></producto>       
+	<producto nombre="Jugo gástrico" valor="2"></producto>      
+</extracto>

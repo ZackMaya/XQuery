@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+	<dvd precio="20" moneda="euro">ET</dvd>   
+	<dvd precio="28" moneda="euro">Pretty woman</dvd>
+	<dvd>Contact</dvd>
+	
+	<cd>Cantando bajo la lluvia</cd>
+	<cd>The wall</cd>
+	
+	<cdrom>Norton</cdrom>
+	<cdrom>Virtual PC</cdrom>
+</catalogo>
